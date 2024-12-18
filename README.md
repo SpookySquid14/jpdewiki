@@ -1,2 +1,2 @@
-# jpdewiki
+# mdgenerator
  
